@@ -1,21 +1,71 @@
-# 💫 About Me:
-🔭 I am currently working at Posti Palvelut Oy.<br><br>🌱 I’m currently learning quantum machine learning.<br><br>🥅 2027 Goals: Explore more and more research of computer vision, deep learning, NLP, time series analysis, audio deep learning, satellite image segmentation, etc.<br><br>⚡ Fun fact: I love to code.
+- ### Hi there, I'm Ashish Patel👋
+  ![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)  
+  [![Website](https://img.shields.io/website?label=ashishpatel26&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/ashishpatel2604/)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imashish2604)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tanvirmazharul&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tanvirmazharul&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanvirmazharul&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanvirmazharul&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+  ## I'm a Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
 
 ---
-[![](https://komarev.com/ghpvc/?username=tanvirmazharul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔭 I am currently working at Posti Palvelut Oy.
+
+- 🌱 I’m currently learning quantum machine learning.
+
+- 🥅 2027 Goals: Explore more and more research of computer vision, deep learning, NLP, time series analysis, audio deep learning, satellite image segmentation, etc.
+
+- ⚡ Fun fact: I love to code.
+
+---
+| ![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirmazharul&show_icons=true&theme=radical) | [![Tanvir Mazharul's Stri](https://streak-stats.demolab.com?user=tanvirmazharul&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirmazharul&layout=compact&&show_icons=true&theme=radical)](https://github.com/tanvirmazharul/github-readme-stats) |                                                              |
+
+
+
+[![Tanvir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanvirmazharul&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/tanvirmazharul/github-readme-activity-graph)
+
+
+
+
+
+   ## ⚡ Technologies I use 
+
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <br /> Jupyter
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <br /> TensorFlow
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <br /> Pytorch
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <br /> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/fastapi.png" width="65px"/>
+            <br /> FastAPI
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/docker.png" width="65px"/>
+            <br /> Docker
+        </td>
+    </tr>
+</table>
+</div>
+
+---
+
+***Thanks for visit my profile.***
