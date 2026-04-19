@@ -4,11 +4,11 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/tanvirmazharul?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/tanvirmazharul)
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
 
 ---
 
-🔭 I am currently working at Posti Palvelut Oy.
+- 🔭 I am currently working at Posti Palvelut Oy.
 
 - 🌱 I’m currently learning quantum machine learning.
 
