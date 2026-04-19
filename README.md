@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working at Posti Palvelut Oy.<br><br>🌱 I’m currently learning quantum machine learning.<br><br>🥅 2026 Goals: Explore more and more research of computer vision, deep learning, NLP, time series analysis, audio deep learning, satellite image segmentation, etc.<br><br>⚡ Fun fact: I love to code.
+🔭 I am currently working at Posti Palvelut Oy.<br><br>🌱 I’m currently learning quantum machine learning.<br><br>🥅 2027 Goals: Explore more and more research of computer vision, deep learning, NLP, time series analysis, audio deep learning, satellite image segmentation, etc.<br><br>⚡ Fun fact: I love to code.
 
 
 ## 🌐 Socials:
