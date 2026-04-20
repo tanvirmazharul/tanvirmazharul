@@ -35,31 +35,31 @@
 <table align="center">
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <img src="./assets/python.jpeg" width="65px"/>
             <br /> Python
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <img src="./assets/jupyter.png" width="65px"/>
             <br /> Jupyter
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <img src="./assets/tensorflow.png" width="65px"/>
             <br /> TensorFlow
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <img src="./assets/pytorch.png" width="65px"/>
             <br /> Pytorch
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <img src="./assets/scikitlearn.png" width="65px"/>
             <br /> Scikit Learn
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/fastapi.png" width="65px"/>
+            <img src="./assets/fastapi.png" width="65px"/>
             <br /> FastAPI
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/docker.png" width="65px"/>
+            <img src="./assets/docker.png" width="65px"/>
             <br /> Docker
         </td>
     </tr>
